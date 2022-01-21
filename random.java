@@ -6,5 +6,6 @@ public class random {
      double y = random.nextDouble();
      boolean z = random .nextBoolean();
      System.out.println(x+" "+y+" "+z);
-    }    
+    
+    }
 }
